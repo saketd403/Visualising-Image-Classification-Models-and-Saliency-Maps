@@ -40,6 +40,8 @@ Saliency map-
 
 ![saliency_map](https://user-images.githubusercontent.com/20341653/43389128-91137f46-9408-11e8-91b1-c4f84a6a33d7.png)
 
-Saliency map after filtering and smoothing-
+Saliency map after smoothing-
+
+![saliency_map](https://user-images.githubusercontent.com/20341653/43389128-91137f46-9408-11e8-91b1-c4f84a6a33d7.png)
 
 
