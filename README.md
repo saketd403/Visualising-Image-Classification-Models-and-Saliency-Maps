@@ -33,11 +33,13 @@ Here we know the category of image beforehand. We just need to find out how does
 to each input pixel.This gives us an understanding of which parts of image are most discriminative.
 
 Original image-
+
 ![original](https://user-images.githubusercontent.com/20341653/43388907-04452e3e-9408-11e8-8f75-ff3c12515dda.png)
 
 Saliency map-
-![saliency_map_gray](https://user-images.githubusercontent.com/20341653/43389024-4ea2b0b4-9408-11e8-940b-db64d127e134.png)
 
-Saliency map after filetring and smoothing-
-![saliency_map_smooth_filter](https://user-images.githubusercontent.com/20341653/43389035-53397cfc-9408-11e8-8792-c98e1dd73c32.png)
+![saliency_map](https://user-images.githubusercontent.com/20341653/43389128-91137f46-9408-11e8-91b1-c4f84a6a33d7.png)
+
+Saliency map after filtering and smoothing-
+
 
