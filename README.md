@@ -17,6 +17,8 @@ method consists in numerically generating an image, which is representative of t
 of the ConvNet class scoring model. We are going to use VGG16 pretrained network or carrying out this technique. 
 This paper lets us know what are the features expected in input image to maximize the output node score.
 
+![ostrich](https://user-images.githubusercontent.com/20341653/43384947-1da9357e-93fd-11e8-9363-89ed7eccc720.png)
+
 
 **Visualizing Saliency maps**
 
