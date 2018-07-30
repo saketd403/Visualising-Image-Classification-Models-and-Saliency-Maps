@@ -16,6 +16,11 @@ ConvNets. Given a learnt classification ConvNet and a class of interest, the vis
 method consists in numerically generating an image, which is representative of the class in terms
 of the ConvNet class scoring model. We are going to use VGG16 pretrained network or carrying out this technique. 
 This paper lets us know what are the features expected in input image to maximize the output node score.
+ What an ostrich looks like - 
+ 
+![image](https://user-images.githubusercontent.com/20341653/43385196-b81e1e4e-93fd-11e8-9750-03ff140715a0.png)
+
+Visualization expected by output node-
 
 ![ostrich](https://user-images.githubusercontent.com/20341653/43384947-1da9357e-93fd-11e8-9363-89ed7eccc720.png)
 
