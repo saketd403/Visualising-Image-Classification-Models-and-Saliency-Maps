@@ -16,7 +16,8 @@ ConvNets. Given a learnt classification ConvNet and a class of interest, the vis
 method consists in numerically generating an image, which is representative of the class in terms
 of the ConvNet class scoring model. We are going to use VGG16 pretrained network or carrying out this technique. 
 This paper lets us know what are the features expected in input image to maximize the output node score.
- What an ostrich looks like - 
+
+What an ostrich looks like - 
  
 ![image](https://user-images.githubusercontent.com/20341653/43385196-b81e1e4e-93fd-11e8-9750-03ff140715a0.png)
 
@@ -27,6 +28,10 @@ Visualization expected by output node-
 
 **Visualizing Saliency maps**
 
-In saliency maps, we calculate the derivative of `output of softmax class node with respect to the input image. 
+In saliency maps, we calculate the derivative of output of softmax class node with respect to the input image. 
 Here we know the category of image beforehand. We just need to find out how does the output score changes with respect 
 to each input pixel.This gives us an understanding of which parts of image are most discriminative.
+
+Original image-
+![original](https://user-images.githubusercontent.com/20341653/43388907-04452e3e-9408-11e8-8f75-ff3c12515dda.png)
+
