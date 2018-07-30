@@ -1,9 +1,9 @@
 Visualising Image Classification Models and Saliency Maps
 
 This project is based on the paper -Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps
- by Karen Simonyan, Andrea Vedaldi, Andrew Zisserman Visual Geometry Group, University of Oxford.
+ by Karen Simonyan, Andrea Vedaldi, Andrew Zisserman Visual Geometry Group, University of Oxford.(https://arxiv.org/pdf/1312.6034.pdf)
 
-Here I have implemented the paper from scratch in the single notebook provided here.
+Here is a Keras  implementation of above paper from scratch in the single notebook provided here.
 
 The paper and project is divided into two parts:-
 1) Visualizing convolutional model input
