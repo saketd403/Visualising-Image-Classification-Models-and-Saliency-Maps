@@ -60,6 +60,7 @@ $PYTHON -m pip install -r requirements.txt
 ### Download VGG weights
 
 ```shell
+cd /root/Model-References/TensorFlow/computer_vision/Segnet
 wget https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5
 ```
 
